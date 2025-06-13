@@ -1,26 +1,31 @@
 # Book Indexing, Marginalities, and Q/A with Large Language Models
 
-This project implements automated book indexing, marginality (heading) generation, and question/answering using a Greek fine-tuned large language model.
+This project implements automated book processing with the following steps, using a Greek fine-tuned large language model.  
+**This is my thesis project.**
 
 ## Model
 
-Uses `meltemi_q8`, a quantized (8-bit) version of Meltemi-7B-Instruct v1.5, run locally via Ollama API for privacy.
+Uses `meltemi_q8`, a quantized (8-bit) version of Meltemi-7B-Instruct v1.5, run locally via the Ollama API for privacy and autonomy.
 
-## What it does
+## Workflow
 
-- Extracts sections from PDFs
-- Summarizes sections and creates headings
-- Generates 2 question/answer pairs per section
-- Saves results as CSV and TXT files
+1. Extract text from PDFs  
+2. Create an index of key concepts  
+3. Generate marginal headings per paragraph  
+4. Summarize sections of the book  
+5. Generate question/answer pairs per section  
+6. Evaluate the quality of generated summaries and Q/A pairs  
+
+## Outputs
+
+Results are saved as CSV and TXT files.
 
 ## Requirements
 
-- Python 3.10+
-- See `requirements.txt` for required packages
-- Ollama API installed and running locally
-
+- Python 3.10+  
+- See `requirements.txt` for required packages  
+- Ollama API installed and running locally  
 
 ## How to use
 
-Run the Python scripts with your input PDFs.
-
+Run the scripts sequentially on your input PDFs to process the book following the steps above, including evaluation.
