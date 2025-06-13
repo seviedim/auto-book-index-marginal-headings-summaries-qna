@@ -1,0 +1,9 @@
+Evaluation Report
+=================
+Total Questions Evaluated: 40
+Correct Answers: 40
+Missing QnA: 0
+Expected Total QnA: 40
+Completeness: 100.00%
+Accuracy: 100.00%
+Average BERTScore: 0.8403

@@ -1,0 +1,12 @@
+Processing Report - 2025-05-13 22:07:58
+================================================================================
+
+platform: Linux-5.15.0-136-generic-x86_64-with-glibc2.36
+processor: 
+cpu_cores: 56
+cpu_threads: 112
+memory_total: 188.08GB
+memory_available: 165.21GB
+
+Duration: 13m 58.9s
+Memory Used: 1.09MB

@@ -1,0 +1,8 @@
+=== Μέσοι Όροι Αξιολόγησης ===
+
+bert_score_summary_f1: 0.9146
+rouge1_summary: 0.1002
+rougeL_summary: 0.0995
+bert_score_title_f1: 0.8658
+rouge1_title: 0.0105
+rougeL_title: 0.0105
