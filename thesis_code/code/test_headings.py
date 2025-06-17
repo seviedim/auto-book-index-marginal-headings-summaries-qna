@@ -15,7 +15,7 @@ import evaluate
 import csv
 import matplotlib.pyplot as plt
 import numpy as np
-from complete_evaluation import evaluate_all
+from evaluate_headings import evaluate_all
 
 
 
