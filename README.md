@@ -1,4 +1,4 @@
-# Book Indexing, Marginalities, and Q/A with Large Language Models
+# Book Indexing, Marginalia, and Q/A with Large Language Models
 
 This project implements automated book processing with the following steps, using a Greek fine-tuned large language model.  
 **This is my thesis project.**
