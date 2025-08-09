@@ -29,3 +29,8 @@ Results are saved as CSV and TXT files.
 ## How to use
 
 Run the scripts sequentially on your input PDFs to process the book following the steps above, including evaluation.
+
+## Thesis PDF
+
+You can access the complete thesis, including methodology, implementation details, and evaluation results, at the following link:  
+[**Read Thesis (PDF)**](https://www.e-ce.uth.gr/wp-content/uploads/formidable/59/Dimopoulou_sevasti.pdf)
