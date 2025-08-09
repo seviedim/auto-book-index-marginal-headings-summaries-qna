@@ -33,4 +33,5 @@ Run the scripts sequentially on your input PDFs to process the book following th
 ## Thesis PDF
 
 You can access the complete thesis, including methodology, implementation details, and evaluation results, at the following link:  
-[**Read Thesis (PDF)**](https://www.e-ce.uth.gr/wp-content/uploads/formidable/59/Dimopoulou_sevasti.pdf)
+[**Read Thesis (PDF)**](https://www.e-ce.uth.gr/research/theses-technical_reports/?lang=en)
+
